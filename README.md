@@ -1,7 +1,5 @@
 # wikitable
 
-Wikipedia tables in your terminal.
-
 ![](wikitable.gif)
 
 ## Usage
